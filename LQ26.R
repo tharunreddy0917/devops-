@@ -1,0 +1,1 @@
+dygraph(x, main = "Security KPI Trend")
